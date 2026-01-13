@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinoibiza-online.com/
+Sitemap: https://casinoibiza-online.com/sitemap.xml

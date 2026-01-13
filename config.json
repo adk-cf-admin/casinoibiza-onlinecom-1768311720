@@ -1,0 +1,201 @@
+{
+    "es-ES": {
+        "styles": {
+            "bg": "#E9E3DA",
+            "lang-select-color": "#222829",
+            "bg-light": "#E9E3DA",
+            "welcome-bonus-bg": "#E9E3DA",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#F4F3F0",
+            "text": "#222829",
+            "text-black": "#222829",
+            "table-head": "#A6916A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#C5544F",
+            "yellow": "#A6916A",
+            "yellow-button": "#C5544F",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#E9E3DA",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#E9E3DA",
+            "faq-label": "#E9E3DA",
+            "bg-footer": "#392D1C",
+            "copyright": "#e7e7d5",
+            "starColor": "#A6916A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Ibiza",
+            "title": "Casino de Ibiza: juegos, apuestas, horarios, dress code y ocio junto a la marina",
+            "description": "Descubre Casino de Ibiza: slots y botes, ruleta americana, blackjack y póker Texas Hold’em. Información sobre horarios, normas de acceso, código de vestimenta, pagos, cobro de premios y opciones de ocio con bar y gastronomía.",
+            "canonical": "casinoibiza-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1603",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinoibiza-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1604",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1605"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1606",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Ibiza Logo"
+        },
+        "nav": {
+            "signUp": "Registrarse",
+            "playNow": "Jugar ahora"
+        },
+        "hero": {
+            "title": "Casino de Ibiza — ruleta, póker, slots y ambiente nocturno",
+            "textDesktop": "Oferta exclusiva de bienvenida de",
+            "textMobile": "Oferta exclusiva de bienvenida de",
+            "playGame": "Jugar",
+            "claimBonus": "Reclamar bono",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1607",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1608",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Reclamar bono",
+            "title": "Los mejores casinos",
+            "allCasino": "Todos los casinos",
+            "welcomeBonusText": "Bono de bienvenida"
+        },
+        "bonusDetails": {
+            "title": "Detalles de bonificación",
+            "getBonusButtonText": "Obtener bono",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonos",
+            "rate": "Rate",
+            "freeSpins": "Giros gratis",
+            "moreInfo": "Más info",
+            "get": "Conseguir",
+            "refresh": "Refrescar"
+        },
+        "advantages": {
+            "title": "Ventajas",
+            "advantagesBeforeText": "",
+            "items": [
+                "Botes progresivos en slots, pagos altos.",
+                "Ruleta electrónica: rondas rápidas, premios frecuentes.",
+                "Mesas en vivo: ruleta y blackjack.",
+                "Sala de póker: cash, torneos, premios.",
+                "Más de 100 juegos y máquinas.",
+                "Ambiente premium dentro de un hotel.",
+                "Cócteles, bar y gastronomía nocturna."
+            ],
+            "advantagesAfterText": "Casino de Ibiza destaca por unir ritmo nocturno, comodidad y una oferta de juego muy completa. Es fácil empezar con slots y cócteles y pasar después a mesas en vivo y póker. Su ubicación junto a la marina refuerza una experiencia elegante y muy social.\n",
+            "knowMore": "Saber más",
+            "appTitle": "Casino de Ibiza App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1609",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Ibiza App",
+            "mobileGooglePlayImageTitle": "Casino de Ibiza App",
+            "mobileIosImageTitle": "Casino de Ibiza App"
+        },
+        "games": {
+            "playNowText": " Jugar ahora",
+            "title": "Los mejores juegos",
+            "allGames": "Todos los juegos"
+        },
+        "about": {
+            "history": {
+                "title": "Acerca de Casino de Ibiza",
+                "description1": "El casino se distingue por su concepto nocturno y entorno premium junto a la marina. Además, permite alternar fácilmente slots, mesas y póker en un mismo lugar.\n",
+                "items": [
+                    "Premios en slots: hasta 90.000 €.",
+                    "Botes: hasta 50.000 €.",
+                    "Póker: premios hasta 10.000 €."
+                ],
+                "description2": "Casino de Ibiza es un espacio nocturno vibrante donde el juego se mezcla con el ambiente festivo de la isla. Se vive como parte de la vida social: muchos van tanto a jugar como a pasar el rato. En el interior se aprecia un diseño contemporáneo con iluminación suave y zonas cómodas.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1610",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " La sala de slots encaja con quienes buscan ritmo y partidas rápidas. El área de mesas aporta sensación clásica con crupieres y reglas tradicionales. La sala de póker suma un componente más “deportivo” y social. La barra acompaña el ritmo de la noche y permite pausas entre apuestas y manos. El concepto está pensado para horarios tardíos y energía constante. Es fácil combinar la visita con un paseo por la marina y una cena cercana. En conjunto, Casino de Ibiza se siente como una experiencia de juego y ocio con estilo."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Ibiza: noche con estilo, juego y gastronomía",
+                "description": "<p>\nCasino de Ibiza se percibe como un casino moderno con espíritu social, donde no solo importan las mesas y las máquinas, sino el ambiente general de la noche. El interior suele apoyarse en detalles de diseño, luz suave y espacios bien separados para que el ruido de los slots no invada el juego de mesa. La sensación es más de encuentro nocturno elegante que de casino rígido y tradicional. Mucha gente acude en pareja o en grupo, combinando apuestas con cócteles y conversación.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a horarios, el concepto está pensado para tarde y noche: la zona de slots suele activarse antes y las mesas y el póker toman fuerza a partir de horas más tardías. Ese ritmo encaja con planes de cena, paseo por la marina y, después, casino. Por la noche la dinámica cambia: entra más público, sube la energía y el ambiente se vuelve más animado cerca de medianoche. En periodos concretos puede haber ajustes temporales, por lo que conviene verificar el horario antes de ir.\n\n<\/p>\n<br>\n<p>\nLa parte de bar y gastronomía actúa como puente entre las zonas de juego. La coctelería suele ir de opciones ligeras y frescas a clásicos más intensos, pensados para la noche. La oferta de comida se centra en propuestas fáciles de tomar sin romper el ritmo, ideales para una pausa breve entre sesiones. Para muchos, la barra es el punto de “reset”: respirar, comentar la jugada y decidir el siguiente paso.\n\n<\/p>\n<br>\n<p>\nA nivel de descanso, el hecho de estar integrado en un gran complejo hotelero aporta comodidad: zonas comunes, opciones de transporte, puntos de restauración y una infraestructura cuidada. Es perfecto para quien quiere pasar la noche sin desplazamientos innecesarios. El formato “todo cerca” permite alternar aire libre, juego y bar con flexibilidad. La ubicación junto a la marina suma un toque especial, sobre todo en épocas cálidas.\n\n<\/p>\n<br>\n<p>\nLos eventos y el entretenimiento suelen girar en torno al ocio nocturno: sesiones de póker, noches temáticas, propuestas estacionales y acciones especiales vinculadas al bar. Estas actividades refuerzan el componente social: no se trata solo de apostar, sino de vivir el plan completo. En determinados momentos gana peso el enfoque de terraza y el aire “open air”, ideal para mezclar juego y cócteles. En conjunto, Casino de Ibiza se vive como un escenario donde el juego forma parte de una noche con estilo.\n\n<\/p>\n<br>\n<p>\nEn casinos de este nivel, los programas de bonos y fidelización suelen centrarse en recompensar visitas repetidas: invitaciones, consumiciones, accesos preferentes y atención prioritaria. Los jugadores más activos suelen recibir propuestas personalizadas según frecuencia y volumen de juego. Lo habitual es que estas ventajas se integren en un servicio premium sin resultar intrusivas. Si la idea es jugar con regularidad, lo más rentable es preguntar por las condiciones de participación al personal del salón.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServicio y gestión del dinero en Casino de Ibiza: personal, pagos y cobros\n<\/h3>\n\n<p>\nEl equipo de Casino de Ibiza suele estar preparado para un ritmo nocturno intenso, con público que juega, socializa y cambia de zona con frecuencia. En sala se valora que el personal explique reglas con claridad, gestione fichas con rapidez y resuelva dudas sin presionar al jugador. En mesas, el papel del crupier es clave: precisión, control del ritmo y atención a los detalles para que la experiencia sea fluida. En caja y mostradores normalmente ayudan con el cambio de fichas, límites y procedimientos básicos.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a idiomas, lo habitual es que se atienda en español e inglés, y en temporadas turísticas a menudo hay apoyo adicional según la afluencia internacional. Si necesitas atención en un idioma concreto, es práctico indicarlo al entrar o al hablar con el personal de recepción o caja. El equipo suele estar acostumbrado a visitantes de muchos países y tiende a explicar lo esencial de forma sencilla. En póker esto se nota especialmente, porque los términos y decisiones rápidas importan.\n\n<\/p>\n<br>\n<p>\nLa moneda de referencia es el euro, y el juego se realiza con fichas o créditos en terminales electrónicos. En bar y caja suelen aceptarse tarjetas bancarias habituales además de efectivo, lo que permite controlar el presupuesto con flexibilidad. En operaciones de mayor importe pueden solicitar identificación, algo común en el sector por procedimientos financieros. Lo más práctico es llevar tarjeta y algo de efectivo para adaptarse a distintas situaciones.\n\n<\/p>\n<br>\n<p>\nLos cajeros automáticos y la retirada de efectivo suelen estar disponibles dentro del complejo o muy cerca, facilitando recargas rápidas sin desplazamientos largos. El cambio de divisa en el propio entorno puede ser limitado, así que si llegas con otra moneda conviene cambiar con antelación en banco o casa de cambio oficial. Para muchos, la clave es mantener la noche cómoda: definir un límite de juego y respetarlo. También es útil considerar que a altas horas puede haber más cola en los cajeros.\n\n<\/p>\n<br>\n<p>\nEl cobro de premios en un casino presencial suele ser directo: canjeas fichas\/créditos por dinero en caja, y en importes elevados pueden aplicarse pasos adicionales. En algunas situaciones puede existir pago mediante tarjeta o transferencia si el importe y la formalización lo requieren. En la práctica el tiempo varía: desde minutos hasta más, según la cuantía y la afluencia. Seguir las indicaciones de caja y tener el documento a mano acelera el proceso.\n\n<\/p>\n<br>\n<p>\nLa fiscalidad de los premios depende del perfil del jugador y de las normas aplicables, además de cómo se formalice el pago y de los importes. Para casos concretos, lo prudente es informarse de forma individual: el personal de caja puede indicar el procedimiento general y qué documentación podría exigirse en premios grandes. Para visitantes, el punto clave suele ser la identificación correcta y el cumplimiento de las normas internas. Si esperas un premio importante, conviene contar con que el casino puede requerir verificación y tramitar el pago según protocolo.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nNormas de acceso a Casino de Ibiza: vestimenta, entrada y cómo llegar\n<\/h3>\n\n<p>\nCasino de Ibiza suele aplicar normas claras para mantener un ambiente cómodo y seguro en las salas de juego. El acceso normalmente es solo para mayores de edad, por lo que pueden pedir un documento para verificarla. El código de vestimenta se mueve en el smart casual: se valora ir arreglado y el look de playa no encaja. Dentro se espera un comportamiento respetuoso: no molestar a otros jugadores, no tocar apuestas en mesa y seguir las indicaciones del crupier. La foto y el vídeo suelen estar restringidos en zonas de juego para proteger la privacidad. El alcohol se disfruta en el bar, pero si hay signos de embriaguez marcada, el personal puede denegar servicio o participación en el juego. El tabaco se regula por normas internas y normalmente se limita a áreas habilitadas. También pueden existir restricciones en el uso del móvil cerca de mesas para evitar conflictos. Si quieres vivir el ambiente más activo, conviene llegar en horas de mayor movimiento de mesas y póker. La ubicación junto a la marina facilita el acceso en taxi o coche. Si vas en coche, es útil planificar el aparcamiento con antelación.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCódigo de vestimenta\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSmart casual: calzado y ropa limpios, aspecto cuidado.\n\n<\/li>\n            <li>• \nNo recomendable: chanclas de playa, prendas de baño, exceso de estilo deportivo.\n\n<\/li>\n            <li>• \nConsejo: para la noche, camisa\/polo o vestido arreglado funciona muy bien.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de entrada\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEdad: solo 18+.\n\n<\/li>\n            <li>• \nDocumentación: pueden solicitar DNI\/pasaporte u otra identificación.\n\n<\/li>\n            <li>• \nControl: posible filtro de acceso y revisión básica por seguridad.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibiciones principales\n\n\n<\/h4>\n\n <ul>\n            <li>• \nNo interferir: no tocar apuestas ni discutir durante la mano o tirada.\n\n<\/li>\n            <li>• \nRestricción de grabación: a menudo no se permite filmar sin autorización.\n\n<\/li>\n            <li>• \nNo entrar en estado de embriaguez; puede haber negativa de servicio.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAparcamiento y llegada\n\n\n<\/h4>\n\n <ul>\n            <li>• \nTaxi: opción más cómoda de noche.\n\n<\/li>\n            <li>• \nCoche: práctico, pero conviene prever plazas disponibles en la zona.\n\n<\/li>\n            <li>• \nA pie: agradable desde la marina, sobre todo con buen tiempo.\n\n\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPrograma de fidelidad de Casino de Ibiza: niveles, bonos y ventajas\n<\/h3>\n\n<p>\nUn programa de fidelidad en un casino de este estilo suele convertir la regularidad en beneficios reales: cuanto más juegas y más a menudo vienes, más privilegios recibes. La mecánica es sencilla: te registras, usas tu tarjeta\/perfil al jugar y el sistema contabiliza actividad en slots, juegos electrónicos y mesas. La acumulación suele expresarse en puntos o estatus, que abre ventajas como consumiciones, acceso a eventos y ofertas personalizadas. Es cómodo porque funciona “en segundo plano” sin que tengas que hacer gestiones constantes. La mayor ventaja aparece con visitas repetidas, cuando el nivel sube más rápido. Muchos valoran que las recompensas no sean solo dinero, sino también experiencia nocturna: invitaciones, prioridad y atenciones. Normalmente el programa incorpora principios de juego responsable y puede limitar algunas acciones para proteger al jugador. El personal suele ayudar en el momento para activar el perfil y explicar el sistema. A mayor nivel, más frecuentes son las invitaciones y los beneficios personalizados. Para quienes combinan slots y mesas, es útil que se tenga en cuenta el juego en distintos formatos. El resultado es una experiencia más cómoda, ventajosa y “a medida”.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de registro\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSer mayor de 18 y presentar ID: alta — 0 €.\n\n<\/li>\n            <li>• \nCompletar datos básicos: 2–3 minutos.\n\n<\/li>\n            <li>• \nTarjeta\/perfil digital activo el mismo día — hasta 10 minutos.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveles y cómo conseguirlos\n<\/h4>\n\n <ul>\n            <li>• \nBronze — alta y primera sesión; ventajas base.\n\n<\/li>\n            <li>• \nSilver — desde 500 puntos\/mes o visitas regulares; más atenciones.\n\n<\/li>\n            <li>• \nGold — desde 2.000 puntos\/mes o juego activo en mesas; prioridad y ofertas.\n\n<\/li>\n            <li>• \nPlatinum — desde 5.000 puntos\/mes; máximo nivel de privilegios.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonos y ventajas\n<\/h4>\n\n <ul>\n            <li>• \nBono de bienvenida: hasta 20 € en créditos\/promos de juego electrónico (una vez).\n\n<\/li>\n            <li>• \nCashback en slots: 3% \/ 5% \/ 7% \/ 10% según nivel (semanal).\n\n<\/li>\n            <li>• \nPuntos por juego: aprox. 1 punto por 10–20 € de volumen (criterio típico).\n\n<\/li>\n            <li>• \nInvitaciones de bar: vales de 5–30 € en bebidas\/snacks según estatus (mensual).\n\n<\/li>\n\t    <li>• \nPrioridad en póker: asiento más rápido y avisos de mesas (Silver+).\n\n<\/li>\n\t    <li>• \nEventos privados: invitaciones 1–4 veces\/mes (Gold\/Platinum).\n\n<\/li>\n\t    <li>• \nAtención de host: límites superiores de cortesías y soporte dedicado (Platinum).\n\n\n\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Proveedores de software"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entretenimiento y juegos e Casino de Ibiza",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonos y promociones de Casino de Ibiza: juego, ocio y acciones de temporada\n<\/h3>\n\n<p>\nAdemás de la fidelización, Casino de Ibiza suele contar con promociones que hacen la noche más intensa y rentable desde el primer momento. Lo más habitual son acciones ligadas a slots y juegos electrónicos: créditos extra, mayor atractivo de botes, sesiones promocionales en franjas horarias concretas. Para quienes prefieren mesas, existen noches temáticas enfocadas en ruleta o blackjack, con incentivos como fichas promocionales o vales. En póker, las promociones tienden a girar alrededor de la acción en cash y pequeñas series: bolsas de premios garantizadas, beneficios por registro temprano y recompensas por sesiones largas. En el bar pueden aparecer packs de “juego + cóctel” para que el plan sea redondo y las pausas tengan sabor. Las acciones estacionales suelen coincidir con épocas de máxima afluencia, fines de semana temáticos y noches especiales con programación ampliada. En esos momentos el ambiente se vuelve más festivo y hay más motivos para quedarse. Un punto fuerte es la simplicidad: normalmente basta con acudir en el horario indicado y consultar condiciones en sala. Esto ayuda a organizar el presupuesto y elegir los tramos más ventajosos. Para exprimir al máximo, suele funcionar combinar una sesión de slots con una mesa “principal” para el momento estrella. En conjunto, las promociones convierten una visita normal en una noche con más opciones, más emoción y pequeños extras.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nHappy Hours en slots — créditos extra de 10–25 € en franjas concretas; ideal para arrancar fuerte.\n\n<\/li>\n            <li>• \nHorario de súper bote — participación reforzada en acumulados, posibles pagos hasta 50.000 €; para cazadores de jackpot.\n\n<\/li>\n            <li>• \nFichas promo en ruleta — entrega de 5–20 € en fichas durante la promoción; facilita el inicio.\n\n<\/li>\n            <li>• \nNoche de blackjack — incentivo por volumen de manos: por ejemplo +10 € en apuesta promo tras cierto número; sube la adrenalina.\n\n<\/li>\n\t    <li>• \nPoker Night con garantía — bolsa de premios de 5.000–10.000 € en mini-series; perfecto para competir.\n\n<\/li>\n\t    <li>• \nBono por asiento temprano en póker — vale de 5–15 € o entradas a mini-torneo; útil si llegas pronto.\n\n<\/li>\n\t    <li>• \nCombo “Juego + cóctel” — descuento 10–15% o vale de 5–10 €; pensado para estancias largas.\n\n<\/li>\n\t    <li>• \nFines de semana temáticos — regalos\/sorteos de 100–300 € en vales y premios; aporta ambiente festivo.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJuegos populares en Casino de Ibiza: de la ruleta al póker\n<\/h3>\n\n<p>\nLa oferta de Casino de Ibiza combina clásicos y ritmo moderno para que cada visitante encuentre su forma de apostar. La ruleta suele ser el gran imán porque ofrece un ritual emocionante: elegir número, tensión del giro y resultado inmediato. El blackjack se valora por sus reglas claras y la sensación de control, ya que las decisiones del jugador influyen en el desenlace. El Caribbean Poker aporta un toque exótico: dinámica accesible, interés por combinaciones y duelo contra el crupier. El Texas Hold’em se vive como un juego social y estratégico donde importan lectura, paciencia y gestión emocional. Para sesiones rápidas, los terminales y mesas electrónicas aceleran el juego y reducen esperas. Los slots cubren la parte más visual y variada, perfectos para alternar riesgo y descanso. Mucha gente combina formatos: empieza en slots, pasa a ruleta y termina en póker durante horas. Ese recorrido permite cambiar de emoción sin saturarse. Para principiantes suele funcionar empezar en juegos electrónicos y apuestas mínimas para coger confianza. Los jugadores con experiencia tienden a elegir mesas y póker, donde disciplina y bankroll mandan. Al final, triunfan los juegos que mezclan reglas sencillas, velocidad y la sensación auténtica de casino.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nRuleta Americana — rondas ágiles y múltiples tipos de apuesta.\n\n<\/li>\n            <li>• \nBlackjack — juego de cartas con decisiones clave del jugador.\n\n<\/li>\n            <li>• \nCaribbean Poker — mano contra la banca, foco en combinaciones y extras.\n\n<\/li>\n            <li>• \nTexas Hold’em (Sala de Póker) — partidas cash y sesiones sociales con estrategia.\n\n<\/li>\n\t    <li>• \nRuleta Electrónica \/ Mesas interactivas — ritmo rápido, ideal para aprender y jugar ágil.\n\n<\/li>\n\t    <li>• \nSlots \/ Video Slots — gran variedad temática, bonus rounds y opciones acumuladas.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nApuestas en Casino de Ibiza: mínimos y máximos por juego\n<\/h3>\n\n<p> \nLos rangos de apuesta en Casino de Ibiza pueden variar según la zona, la hora y la afluencia, por eso conviene tener una referencia práctica antes de sentarse a jugar. A continuación se muestran rangos orientativos que ayudan a entender el orden de magnitud en slots, juegos electrónicos, mesas y póker. Para empezar con calma, lo ideal es entrar por los mínimos y subir solo cuando ya domines el ritmo y las reglas del juego concreto. Para jugadores avanzados, los máximos son la clave: permiten estrategias más agresivas, especialmente en ruleta y blackjack.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#A6916A; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Juego \/ zona<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta mínima<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta máxima<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (apuesta por giro)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta electrónica (terminales)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta Americana (mesa en vivo)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (mesa en vivo)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Caribbean Poker (mesa)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200 €<\/td>\n                <\/tr>\n     <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em Cash (buy-in mínimo)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n     <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em Cash (rango típico de ciegas)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 €\/2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €\/10 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOcio y shows en Casino de Ibiza: energía nocturna y eventos regulares\n<\/h3>\n\n<p>\nCasino de Ibiza se visita no solo por el juego, sino por el ambiente nocturno, cuando la velada se convierte en un plan completo. En un concepto así, el entretenimiento suele diseñarse para alternar apuesta y descanso: jugar una sesión, hacer pausa en el bar, volver a las mesas y cambiar de ritmo sin salir del lugar. La parte social se apoya en formatos repetibles: noches de póker, veladas temáticas y acciones que animan la sala y hacen la experiencia más memorable. Incluso sin un gran espectáculo, la noche se siente “evento” por la iluminación, la música y el flujo constante de público.\n\n<\/p>\n<br>\n\n\n<p>\nEl foco suele estar en actividades regulares y fáciles de encajar: noches con protagonismo de la ruleta, veladas de blackjack y sesiones de póker con dinámica cuidada. No exigen preparación; simplemente llegas y te sumas al ritmo de la noche. En periodos de máxima afluencia, la agenda suele intensificarse con fines de semana temáticos, invitados puntuales y una programación de bar más amplia. Por eso el casino funciona bien como punto de inicio o continuación de un recorrido nocturno.\n\n<\/p>\n<br>\n<p>\nEl aire de club se percibe sobre todo en la música y el tempo del espacio: acompaña, pero sin invadir la experiencia de mesa. Para grupos, importan los “momentos antes y después”: antes del juego, cócteles y charla; después, un último paso por slots o una ruleta rápida “por suerte”. Así, el entretenimiento no es un único número, sino un conjunto de propuestas regulares que mantienen la noche viva.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nNoches de póker — sesiones cash y mini-series, formato social y competitivo.\n\n<\/li>\n            <li>• \nVeladas temáticas de juego — foco en ruleta\/blackjack con animación de sala.\n\n<\/li>\n            <li>• \nPrograma de bar nocturno — cócteles y propuestas especiales para reforzar el ambiente.\n\n<\/li>\n            <li>• \nFines de semana estacionales — noches temáticas con más energía y afluencia.\n\n<\/li>\n\t    <li>• \nZonas lounge — espacios cómodos para pausas y conversación.\n\n<\/li>\n\t    <li>• \nAmbiente de terraza (en época cálida) — aire libre, cócteles y ritmo de juego.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBares, gastronomía y descanso en Casino de Ibiza: cócteles, cocina y confort\n<\/h3>\n\n<p>\nEn Casino de Ibiza la experiencia rara vez se limita al juego: una parte clave está en cómo se viven las pausas de bar y gastronomía. La noche suele alternar sesiones cortas de apuesta con momentos de descanso en la barra, para comentar la jugada, respirar y volver a la mesa. La coctelería encaja perfectamente con el horario nocturno: el cóctel se convierte en ritual, no solo en complemento. Con esa combinación, el casino se siente como un plan completo de madrugada, no como una visita rápida.\n\n<\/p>\n<br>\n\n\n<p>\nLa propuesta de restaurante\/snacks suele priorizar la comodidad: platos y bocados pensados para comer sin largas esperas y sin perder el ritmo. Esto ayuda especialmente a quienes juegan póker o hacen sesiones largas en slots. Normalmente hay alternativas ligeras y otras más contundentes para adaptarse a la hora. Además, comer y beber con cabeza mejora el confort y ayuda a mantener el control emocional, algo muy valioso en un entorno de juego.\n\n<\/p>\n<br>\n<p>\nAl estar vinculado a un complejo hotelero, el descanso se percibe más “de escapada”: suele haber infraestructura cercana que simplifica la noche, desde zonas cómodas hasta buena accesibilidad de transporte. A muchos les gusta el guion “cena — paseo — casino — último cóctel” porque evita complicaciones logísticas. La marina aporta ese fondo nocturno especial que hace el plan más atractivo.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nCasino Bar \/ barra de cócteles — punto central para pausas y ambiente nocturno.\n\n<\/li>\n            <li>• \nGastronomía \/ zona de snacks — opciones rápidas ideales para la noche.\n\n<\/li>\n            <li>• \nCasino Lounge — área tranquila para descansar y conversar.\n\n<\/li>\n            <li>• \nTerraza (en época cálida) — aire libre, cócteles y vibra “open air”.\n\n<\/li>\n\t    <li>• \nServicios del complejo hotelero — comodidad extra para una velada larga.\n\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "items": [
+                {
+                    "title": "¿Hay que reservar con antelación?",
+                    "answer": "Normalmente no, pero en fechas punta o si quieres una mesa concreta de póker, es útil consultar opciones. Para grupos a veces se coordina para mayor comodidad.\n\n\n"
+                },
+                {
+                    "title": "¿Y si soy principiante y no conozco las reglas?",
+                    "answer": "Empieza por juegos electrónicos o apuestas mínimas y pide una explicación breve al personal. Un inicio tranquilo reduce errores y mejora la experiencia.\n\n\n"
+                },
+                {
+                    "title": "¿Cómo controlar el presupuesto para una noche cómoda?",
+                    "answer": "Marca un límite, divide el dinero en varias sesiones y haz pausas. Lo más importante es no perseguir pérdidas ni subir apuestas por impulso.\n\n\n"
+                },
+                {
+                    "title": "¿Puedo pasar de slots a mesas con las mismas fichas?",
+                    "answer": "Por lo general, las fichas siguen procedimientos de caja y formatos concretos, así que conviene preguntar cómo canjear. Son minutos y evita malentendidos.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1611",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Ibiza"
+        }
+    },
+    "langs": [
+        {
+            "code": "es-ES",
+            "name": "Испанский",
+            "isDefault": true
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Ibiza",
+  "short_name": "Casino de Ibiza",
+  "theme_color": "",
+  "background_color": "#E9E3DA",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768310232-cropped-favicon-casinodeibiza-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
